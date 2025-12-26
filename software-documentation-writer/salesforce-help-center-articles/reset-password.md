@@ -7,7 +7,7 @@ Use this article if you are unable to log in to Salesforce CRM due to a forgotte
 1. Go to the Salesforce CRM login page.
 2. Click Forgot Your Password.
 3. Enter your registered email address.
-4. Follow the password reset link sent to your email.
+4. Follow the reset password link sent to your email.
 
 ## Additional Help
 If you do not receive the email, contact your system administrator.
